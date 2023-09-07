@@ -1,6 +1,6 @@
 This repo is for my LucidGlove firmware so I can keep track of my left and right hand changes with control flips and other changes. 
 This firmware is from Lucas from the YouTube channel Lucas VRTech
 
-The first iteration will be a direct fork of his firmware with later versions adding more components to the gloves
+Please note that for now I am just working on the left hand to allow myself to fix the main issues and test my code without having to go through the flashing, testing, and troubleshooting for both hands after each change.
 
 See Issues for current things on my to-do list. This will change and be updated when encountering new issues and leaving reminders for myself.
