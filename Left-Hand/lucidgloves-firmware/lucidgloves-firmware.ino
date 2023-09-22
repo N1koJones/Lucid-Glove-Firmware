@@ -43,7 +43,7 @@
 #define JOYSTICK_BLANK false //make true if not using the joystick
 #define JOY_FLIP_X true
 #define JOY_FLIP_Y false
-#define JOYSTICK_DEADZONE 10 //deadzone in the joystick to prevent drift (in percent)
+#define JOYSTICK_DEADZONE 5 //deadzone in the joystick to prevent drift (in percent)
 
 #define NO_THUMB false //If for some reason you don't want to track the thumb
 
